@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Runner</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_choose_location">Choose Endpoint</string>
+    <string name="button_GO">Start</string>
+
+    <color name="LiteBlu">#00FFFF</color>
+
+    <string name="title_activity_display_map_choose">DisplayMapChoose</string>
+
+</resources>
